@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere - Real-Time Weather Dashboard",
+  "description": "Real-time global weather dashboard fetching and processing live meteorological data via asynchronous REST APIs with hourly forecasts, atmospheric metrics, and city search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
